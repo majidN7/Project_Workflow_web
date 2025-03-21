@@ -96,7 +96,7 @@
     "ACTIVITY_INSTANCE_TOOLTIP_COMPLETED": "Abgeschlossene Aktivitätsinstanz",
     "ACTIVITY_INSTANCE_TOOLTIP_RUNNING": "Laufende Aktivitätsinstanz",
     "ADMIN_APP": "Admin",
-    "APP_VENDOR": "Camunda",
+    "APP_VENDOR": "Celever Platform",
     "ASC": "Aufsteigend",
     "AUTH_AUTHENTICATION_FAILED": "Authentifizierung fehlgeschlagen. Die Session ist abgelaufen, bitte erneut anmelden.",
     "AUTH_DAY_CONTEXT_AFTERNOON": "Nachmittag",

@@ -15057,7 +15057,7 @@
       70044: function (e) {
         "use strict";
         e.exports =
-          '<div class="container-fluid">\n  <div class="row">\n    <div id="footer-timezone" class="col-xs-6">\n      {{ \'CAM_WIDGET_FOOTER_TIMEZONE\' | translate }} <i>{{timezoneName}}</i>\n    </div>\n    <div class="col-xs-6">\n      {{ \'CAM_WIDGET_FOOTER_POWERED_BY\' | translate }} <a href="http://camunda.org">Celever Platform</a> /\n      <span class="version">{{version}}</span>\n    </div>\n  </div>\n</div>\n';
+          '<div class="container-fluid">\n  <div class="row">\n    <div id="footer-timezone" class="col-xs-6">\n      {{ \'CAM_WIDGET_FOOTER_TIMEZONE\' | translate }} <i>{{timezoneName}}</i>\n    </div>\n    <div class="col-xs-6">\n      {{ \'CAM_WIDGET_FOOTER_POWERED_BY\' | translate }} <a href="https://www.clevercouncil.com/">Celever Platform</a> /\n      <span class="version">{{version}}</span>\n    </div>\n  </div>\n</div>\n';
       },
       57752: function (e) {
         "use strict";
@@ -15067,7 +15067,7 @@
       46152: function (e) {
         "use strict";
         e.exports =
-          ' <svg xmlns="http://www.w3.org/2000/svg" width="80px" height="80px" viewBox="0 0 1024 1024" class="icon" version="1.1"><path d="M512 960c-92.8 0-160-200-160-448S419.2 64 512 64s160 200 160 448-67.2 448-160 448z m0-32c65.6 0 128-185.6 128-416S577.6 96 512 96s-128 185.6-128 416 62.4 416 128 416z" fill="#050D42"/><path d="M124.8 736c-48-80 92.8-238.4 307.2-363.2S852.8 208 899.2 288 806.4 526.4 592 651.2 171.2 816 124.8 736z m27.2-16c33.6 57.6 225.6 17.6 424-97.6S905.6 361.6 872 304 646.4 286.4 448 401.6 118.4 662.4 152 720z" fill="#050D42"/><path d="M899.2 736c-46.4 80-254.4 38.4-467.2-84.8S76.8 368 124.8 288s254.4-38.4 467.2 84.8S947.2 656 899.2 736z m-27.2-16c33.6-57.6-97.6-203.2-296-318.4S184 246.4 152 304 249.6 507.2 448 622.4s392 155.2 424 97.6z" fill="#050D42"/><path d="M512 592c-44.8 0-80-35.2-80-80s35.2-80 80-80 80 35.2 80 80-35.2 80-80 80zM272 312c-27.2 0-48-20.8-48-48s20.8-48 48-48 48 20.8 48 48-20.8 48-48 48zM416 880c-27.2 0-48-20.8-48-48s20.8-48 48-48 48 20.8 48 48-20.8 48-48 48z m448-432c-27.2 0-48-20.8-48-48s20.8-48 48-48 48 20.8 48 48-20.8 48-48 48z" fill="#2F4BFF"/></svg>';
+          ' <svg xmlns="http://www.w3.org/2000/svg" width="40px" height="80px" viewBox="0 0 1024 1024" class="icon" version="1.1"><path d="M512 960c-92.8 0-160-200-160-448S419.2 64 512 64s160 200 160 448-67.2 448-160 448z m0-32c65.6 0 128-185.6 128-416S577.6 96 512 96s-128 185.6-128 416 62.4 416 128 416z" fill="#050D42"/><path d="M124.8 736c-48-80 92.8-238.4 307.2-363.2S852.8 208 899.2 288 806.4 526.4 592 651.2 171.2 816 124.8 736z m27.2-16c33.6 57.6 225.6 17.6 424-97.6S905.6 361.6 872 304 646.4 286.4 448 401.6 118.4 662.4 152 720z" fill="#050D42"/><path d="M899.2 736c-46.4 80-254.4 38.4-467.2-84.8S76.8 368 124.8 288s254.4-38.4 467.2 84.8S947.2 656 899.2 736z m-27.2-16c33.6-57.6-97.6-203.2-296-318.4S184 246.4 152 304 249.6 507.2 448 622.4s392 155.2 424 97.6z" fill="#050D42"/><path d="M512 592c-44.8 0-80-35.2-80-80s35.2-80 80-80 80 35.2 80 80-35.2 80-80 80zM272 312c-27.2 0-48-20.8-48-48s20.8-48 48-48 48 20.8 48 48-20.8 48-48 48zM416 880c-27.2 0-48-20.8-48-48s20.8-48 48-48 48 20.8 48 48-20.8 48-48 48z m448-432c-27.2 0-48-20.8-48-48s20.8-48 48-48 48 20.8 48 48-20.8 48-48 48z" fill="#2F4BFF"/></svg>';
       },
       85364: function (e) {
         "use strict";
@@ -15172,7 +15172,7 @@
       41487: function (e) {
         "use strict";
         e.exports =
-          '<div class="custom-links"\n     ng-if="links.length">\n  <h3 class="section-title">{{\'LINKS\' | translate}}</h3>\n  <div class="row">\n    <div ng-repeat="link in links"\n         class="col-xs-6 col-md-4 custom-link-wrapper">\n      <a ng-href="{{ link.href }}">\n        <span class="h4">{{ link.label | translate }}</span>\n      </a>\n      <span ng-if="link.description"\n            class="custom-link-description">{{ link.description | translate }}</span>\n    </div>\n  </div>\n</div>\n';
+          '<div ></div>';
       },
       67375: function (e) {
         "use strict";

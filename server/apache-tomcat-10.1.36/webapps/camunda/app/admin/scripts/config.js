@@ -19,7 +19,7 @@ export default {
   // // change the app name and vendor
   // app: {
   //   name: 'Admin',
-  //   vendor: 'Company'
+  //   vendor: 'Celever'
   // },
   // // custom libraries and scripts loading and initialization,
   // // see: http://docs.camunda.org/guides/user-guide/#tasklist-customizing-custom-scripts
