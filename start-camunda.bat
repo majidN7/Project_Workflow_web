@@ -2,7 +2,7 @@
 
 set "CATALINA_HOME=%CD%\server\apache-tomcat-10.1.36"
 
-echo "starting Camunda Platform 7.23.0-alpha4 on Apache Tomcat 10.1.36"
+echo "starting Celever Platform 7.23.0-alpha4 on Apache Tomcat 10.1.36"
 
 cd server\apache-tomcat-10.1.36\bin\
 start startup.bat
