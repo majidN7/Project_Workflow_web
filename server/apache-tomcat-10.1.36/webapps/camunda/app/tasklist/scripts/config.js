@@ -17,10 +17,10 @@
 
 export default {
   // change the app name and vendor
-  // app: {
-  //   name: 'Todos',
-  //   vendor: 'Company'
-  // },
+   app: {
+     name: 'Tasklist',
+    vendor: 'Celever '
+   },
   //
   // configure the date format
   // "dateFormat": {
@@ -28,10 +28,10 @@ export default {
   //   "long":   "LLLL"
   // },
   //
-  // "locales": {
-  //    "availableLocales": ["en", "de"],
-  //    "fallbackLocale": "en"
-  //  },
+   "locales": {
+     "availableLocales": ["en", "de", "fr"],
+     "fallbackLocale": "en"
+   },
   // customScripts: [
   //   // If you have a folder called 'my-custom-script' (in the 'tasklist' folder)
   //   // with a file called 'customScript.js' in it

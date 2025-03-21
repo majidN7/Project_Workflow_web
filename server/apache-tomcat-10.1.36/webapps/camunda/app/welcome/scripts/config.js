@@ -16,10 +16,10 @@
  */
 
 export default {
-  // app: {
-  //   name: 'Todos',
-  //   vendor: 'Company'
-  // },
+   app: {
+     name: 'Welcome',
+     vendor: 'Celever'
+   },
   // customScripts: [
   //   // If you have a folder called 'my-custom-script' (in the 'welcome' folder)
   //   // with a file called 'customScript.js' in it
@@ -43,10 +43,10 @@ export default {
   //   "long":   "LLLL"
   // },
   //
-  // "locales": {
-  //    "availableLocales": ["en", "de"],
-  //    "fallbackLocale": "en"
-  //  },
+   "locales": {
+      "availableLocales": ["en", "de", "fr"],
+      "fallbackLocale": "en"
+    },
   // links: [
   //   {
   //     label: 'Angular.js Docs',

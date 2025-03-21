@@ -2412,6 +2412,7 @@
       "REQUIRED_HEX_COLOR_FIELD": "La valeur doit être une couleur hexadécimale",
       "REQUIRED_INTEGER_FIELD": "La valeur doit être un nombre entier.",
       "SAVE": "Sauver",
+      "SEARCH_PLACEHOLDER": "Ajouter des critères",
       "SERVICES_RESOURCE_RESOLVER_AUTH_FAILED": "L'authentification a échouée. Reconnectez vous.",
       "SERVICES_RESOURCE_RESOLVER_DISPLAY_FAILED": "La ressource {{resourceName}} ne peux pas être affichée.",
       "SERVICES_RESOURCE_RESOLVER_ID_NOT_FOUND": "Pas de ressource {{resourceName}} avec cet identifiant {{id}}",
@@ -2509,6 +2510,19 @@
       "VARIABLE_UPLOAD_PROGRESS": "Progression du téléchargement : {{progress}}  %",
       "VARIABLE_UPLOAD_SELECT_FILE": "Sélectionnez un fichier contenant le contenu binaire de la variable",
       "VARIABLE_UPLOAD_UPLOAD": "Télécharger",
-      "WITHOUT_DUE_DATE": "Sans date d'échéance"
+      "WITHOUT_DUE_DATE": "Sans date d'échéance",
+
+
+      "USERS_ID": "ID",
+      "USERS_LASTNAME": "Nom*",
+      "USERS_LASTNAME_REQUIRED": "le nom est obligatoire.",
+      "USERS_LIST_OF_USERS": "liste des utilisateurs",
+      "USERS_LIST_USERS": "liste des utilisateurs",
+      "USERS_LOADING_PROFILE": "chargement de profile...",
+      "USERS_MY_PASSWORD": "{{name}} mot de passe *:",
+      "USERS_MY_PROFILE": "Mon Profile",
+      "USERS_NAME": "Nom",
+      "USERS_NEW_PASSWORD": "nouveau mot de passe*:",
+      "USERS_NEW_PASSWORD_REPEAT": "nouveau mot de passe (repeat)*:"
     }
   }

@@ -17,10 +17,10 @@
 
 export default {
   // // change the app name and vendor
-  // app: {
-  //   name: 'Operations',
-  //   vendor: 'Company'
-  // },
+   app: {
+     name: 'Cockpit',
+     vendor: 'Celever'
+   },
   // customScripts: [
   //   // If you have a folder called 'my-custom-script' (in the 'cockpit' folder)
   //   // with a file called 'customScript.js' in it
@@ -48,10 +48,10 @@ export default {
   // runtimeActivityInstanceMetrics: {
   //   display: true
   // },
-  // 'locales': {
-  //   'availableLocales': ['en', 'de'],
-  //   'fallbackLocale': 'en'
-  // },
+   'locales': {
+     'availableLocales': ['en', 'de', 'fr'],
+     'fallbackLocale': 'en'
+   },
   // skipCustomListeners: {
   //   default: true,
   //   hidden: false

@@ -17,10 +17,10 @@
 
 export default {
   // // change the app name and vendor
-  // app: {
-  //   name: 'Admin',
-  //   vendor: 'Celever'
-  // },
+   app: {
+     name: 'Admin',
+     vendor: 'Celever'
+   },
   // // custom libraries and scripts loading and initialization,
   // // see: http://docs.camunda.org/guides/user-guide/#tasklist-customizing-custom-scripts
   // customScripts: [
@@ -49,10 +49,10 @@ export default {
   //     'unit': 'day'
   //   }
   // },
-  // 'locales': {
-  //   'availableLocales': ['en', 'de'],
-  //   'fallbackLocale': 'en'
-  // },
+   'locales': {
+     'availableLocales': ['en', 'de', 'fr'],
+     'fallbackLocale': 'en'
+   },
   // csrfCookieName: 'XSRF-TOKEN',
   // disableWelcomeMessage: false,
   // userOperationLogAnnotationLength: 4000
