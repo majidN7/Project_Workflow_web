@@ -18157,7 +18157,7 @@
       70044: function (t) {
         "use strict";
         t.exports =
-          '<div class="container-fluid">\n  <div class="row">\n    <div id="footer-timezone" class="col-xs-6">\n      {{ \'CAM_WIDGET_FOOTER_TIMEZONE\' | translate }} <i>{{timezoneName}}</i>\n    </div>\n    <div class="col-xs-6">\n      {{ \'CAM_WIDGET_FOOTER_POWERED_BY\' | translate }} <a href="http://camunda.org">Celever Platform</a> /\n      <span class="version">{{version}}</span>\n    </div>\n  </div>\n</div>\n';
+          '<div class="container-fluid">\n  <div class="row">\n    <div id="footer-timezone" class="col-xs-6">\n      {{ \'CAM_WIDGET_FOOTER_TIMEZONE\' | translate }} <i>{{timezoneName}}</i>\n    </div>\n    <div class="col-xs-6">\n      {{ \'CAM_WIDGET_FOOTER_POWERED_BY\' | translate }} <a href="https://www.clevercouncil.com">Celever Platform</a> /\n      <span class="version">{{version}}</span>\n    </div>\n  </div>\n</div>\n';
       },
       57752: function (t) {
         "use strict";
