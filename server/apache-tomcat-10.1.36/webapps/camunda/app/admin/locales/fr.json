@@ -2760,7 +2760,25 @@
         "AUTHORIZATION_USER_GROUP": "Utilisateur / Groupe",
         "AUTHORIZATION_USER_ID": "ID utilisateur",
         "AUTHORIZATION_GROUP_ID": "ID du groupe",
-        "AUTHORIZATION_EMPTY": "Il n'existe aucune autorisation."
+        "AUTHORIZATION_EMPTY": "Il n'existe aucune autorisation.",
+        "PLUGIN_SEARCH_GROUPS_ID": "ID",
+        "PLUGIN_SEARCH_GROUPS_LIKE": "like",
+        "PLUGIN_SEARCH_GROUPS_NAME": "Name",
+        "PLUGIN_SEARCH_GROUPS_TENANT_ID": "Locataire ID",
+        "PLUGIN_SEARCH_GROUPS_TYPE": "Type",
+        "PLUGIN_SEARCH_GROUPS_USER_ID": "User ID",
+        "PLUGIN_SEARCH_TENANTS_GROUP_ID": "Group ID",
+        "PLUGIN_SEARCH_TENANTS_ID": "ID",
+        "PLUGIN_SEARCH_TENANTS_LIKE": "like",
+        "PLUGIN_SEARCH_TENANTS_NAME": "Locataire",
+        "PLUGIN_SEARCH_TENANTS_USER_ID": "Utilisateur ID",
+        "PLUGIN_SEARCH_USER_EMAIL": "Email",
+        "PLUGIN_SEARCH_USER_FIRSTNAME": "Prenom",
+        "PLUGIN_SEARCH_USER_GROUP_ID": "Groupe ID",
+        "PLUGIN_SEARCH_USER_ID": "ID",
+        "PLUGIN_SEARCH_USER_LASTNAME": "Nom",
+        "PLUGIN_SEARCH_USER_LIKE": "like",
+        "PLUGIN_SEARCH_USER_TENANT_ID": "Locataire ID",
         
     }
   }
