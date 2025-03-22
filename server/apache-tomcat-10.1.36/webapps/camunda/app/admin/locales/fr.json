@@ -2778,7 +2778,7 @@
         "PLUGIN_SEARCH_USER_ID": "ID",
         "PLUGIN_SEARCH_USER_LASTNAME": "Nom",
         "PLUGIN_SEARCH_USER_LIKE": "like",
-        "PLUGIN_SEARCH_USER_TENANT_ID": "Locataire ID",
+        "PLUGIN_SEARCH_USER_TENANT_ID": "Locataire ID"
         
     }
   }
