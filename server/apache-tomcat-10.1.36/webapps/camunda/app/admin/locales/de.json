@@ -488,7 +488,7 @@
     "SERVICES_RESOURCE_RESOLVER_RECEIVED_STATUS": "Der Server hat den Status {{status}} gesendet.",
     "SET": "Setzen",
     "SETUP_COULD_NOT_CREATE_USER": "Initialer Benutzer konnte nicht erstellt werden.",
-    "SETUP_SETUP": "Camunda Setup",
+    "SETUP_SETUP": "Celever Platform Setup",
     "SETUP_USER_ACCOUNT": "Benutzer-Konto",
     "SETUP_USER_CREATED": "Benutzer erstellt",
     "SETUP_USER_EMAIL": "E-Mail",
